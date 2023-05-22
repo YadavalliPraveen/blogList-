@@ -1,0 +1,25 @@
+.list-container {
+  list-style-type: none;
+}
+.title-date-container {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-top: 20px;
+}
+.date {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+}
+.description {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.hr-line {
+  color: #9aa5b1;
+}
